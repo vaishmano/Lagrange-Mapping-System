@@ -1,0 +1,8 @@
+Sky map: spacescape
+https://sourceforge.net/projects/spacescape/
+
+Sun texture:
+Solar System Scope, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+
+Earth:
+https://www.solarsystemscope.com/textures/
